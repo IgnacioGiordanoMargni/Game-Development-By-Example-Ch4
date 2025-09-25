@@ -1,0 +1,12 @@
+﻿  Chapter4.cpp
+C:\Users\icasa\source\repos\Chapter4\Chapter4\Chapter4.cpp(11,38): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+C:\Users\icasa\source\repos\Chapter4\Chapter4\Chapter4.cpp(11,38): warning C4244:         with
+C:\Users\icasa\source\repos\Chapter4\Chapter4\Chapter4.cpp(11,38): warning C4244:         [
+C:\Users\icasa\source\repos\Chapter4\Chapter4\Chapter4.cpp(11,38): warning C4244:             T=float
+C:\Users\icasa\source\repos\Chapter4\Chapter4\Chapter4.cpp(11,38): warning C4244:         ]
+C:\Users\icasa\source\repos\Chapter4\Chapter4\Chapter4.cpp(11,26): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+C:\Users\icasa\source\repos\Chapter4\Chapter4\Chapter4.cpp(11,26): warning C4244:         with
+C:\Users\icasa\source\repos\Chapter4\Chapter4\Chapter4.cpp(11,26): warning C4244:         [
+C:\Users\icasa\source\repos\Chapter4\Chapter4\Chapter4.cpp(11,26): warning C4244:             T=float
+C:\Users\icasa\source\repos\Chapter4\Chapter4\Chapter4.cpp(11,26): warning C4244:         ]
+  Chapter4.vcxproj -> C:\Users\icasa\source\repos\Chapter4\x64\Debug\Chapter4.exe

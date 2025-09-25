@@ -1,0 +1,176 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\icasa\\source\\repos\\Chapter4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7D40B45-A1B6-4B76-B45D-E58046497AFD}|Chapter4\\Chapter4.vcxproj|C:\\Users\\icasa\\source\\repos\\Chapter4\\Chapter4\\Chapter4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D7D40B45-A1B6-4B76-B45D-E58046497AFD}|Chapter4\\Chapter4.vcxproj|solutionrelative:Chapter4\\Chapter4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7D40B45-A1B6-4B76-B45D-E58046497AFD}|Chapter4\\Chapter4.vcxproj|C:\\Users\\icasa\\source\\repos\\Chapter4\\Chapter4\\Enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D7D40B45-A1B6-4B76-B45D-E58046497AFD}|Chapter4\\Chapter4.vcxproj|solutionrelative:Chapter4\\Enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7D40B45-A1B6-4B76-B45D-E58046497AFD}|Chapter4\\Chapter4.vcxproj|C:\\Users\\icasa\\source\\repos\\Chapter4\\Chapter4\\Hero.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D7D40B45-A1B6-4B76-B45D-E58046497AFD}|Chapter4\\Chapter4.vcxproj|solutionrelative:Chapter4\\Hero.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7D40B45-A1B6-4B76-B45D-E58046497AFD}|Chapter4\\Chapter4.vcxproj|C:\\Users\\icasa\\source\\repos\\Chapter4\\Chapter4\\Rocket.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D7D40B45-A1B6-4B76-B45D-E58046497AFD}|Chapter4\\Chapter4.vcxproj|solutionrelative:Chapter4\\Rocket.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7D40B45-A1B6-4B76-B45D-E58046497AFD}|Chapter4\\Chapter4.vcxproj|C:\\Users\\icasa\\source\\repos\\Chapter4\\Chapter4\\Rocket.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D7D40B45-A1B6-4B76-B45D-E58046497AFD}|Chapter4\\Chapter4.vcxproj|solutionrelative:Chapter4\\Rocket.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7D40B45-A1B6-4B76-B45D-E58046497AFD}|Chapter4\\Chapter4.vcxproj|C:\\Users\\icasa\\source\\repos\\Chapter4\\Chapter4\\Hero.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D7D40B45-A1B6-4B76-B45D-E58046497AFD}|Chapter4\\Chapter4.vcxproj|solutionrelative:Chapter4\\Hero.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\icasa\\source\\repos\\Chapter04fromthebook\\4.SFMLProject\\SFMLProject\\Hero.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7D40B45-A1B6-4B76-B45D-E58046497AFD}|Chapter4\\Chapter4.vcxproj|C:\\Users\\icasa\\source\\repos\\Chapter4\\Chapter4\\Enemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D7D40B45-A1B6-4B76-B45D-E58046497AFD}|Chapter4\\Chapter4.vcxproj|solutionrelative:Chapter4\\Enemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7D40B45-A1B6-4B76-B45D-E58046497AFD}|Chapter4\\Chapter4.vcxproj|C:\\Users\\icasa\\source\\repos\\Chapter4\\CHAPTER4\\SFML-2.5.1\\INCLUDE\\SFML\\GRAPHICS.HPP||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D7D40B45-A1B6-4B76-B45D-E58046497AFD}|Chapter4\\Chapter4.vcxproj|solutionrelative:CHAPTER4\\SFML-2.5.1\\INCLUDE\\SFML\\GRAPHICS.HPP||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Hero.cpp",
+              "DocumentMoniker": "C:\\Users\\icasa\\source\\repos\\Chapter4\\Chapter4\\Hero.cpp",
+              "RelativeDocumentMoniker": "Chapter4\\Hero.cpp",
+              "ToolTip": "C:\\Users\\icasa\\source\\repos\\Chapter4\\Chapter4\\Hero.cpp",
+              "RelativeToolTip": "Chapter4\\Hero.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-24T18:06:54.498Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Chapter4.cpp",
+              "DocumentMoniker": "C:\\Users\\icasa\\source\\repos\\Chapter4\\Chapter4\\Chapter4.cpp",
+              "RelativeDocumentMoniker": "Chapter4\\Chapter4.cpp",
+              "ToolTip": "C:\\Users\\icasa\\source\\repos\\Chapter4\\Chapter4\\Chapter4.cpp",
+              "RelativeToolTip": "Chapter4\\Chapter4.cpp",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAowH4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-24T18:16:46.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Enemy.h",
+              "DocumentMoniker": "C:\\Users\\icasa\\source\\repos\\Chapter4\\Chapter4\\Enemy.h",
+              "RelativeDocumentMoniker": "Chapter4\\Enemy.h",
+              "ToolTip": "C:\\Users\\icasa\\source\\repos\\Chapter4\\Chapter4\\Enemy.h",
+              "RelativeToolTip": "Chapter4\\Enemy.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-24T19:41:57.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Rocket.h",
+              "DocumentMoniker": "C:\\Users\\icasa\\source\\repos\\Chapter4\\Chapter4\\Rocket.h",
+              "RelativeDocumentMoniker": "Chapter4\\Rocket.h",
+              "ToolTip": "C:\\Users\\icasa\\source\\repos\\Chapter4\\Chapter4\\Rocket.h",
+              "RelativeToolTip": "Chapter4\\Rocket.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-25T02:26:06.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Hero.h",
+              "DocumentMoniker": "C:\\Users\\icasa\\source\\repos\\Chapter4\\Chapter4\\Hero.h",
+              "RelativeDocumentMoniker": "Chapter4\\Hero.h",
+              "ToolTip": "C:\\Users\\icasa\\source\\repos\\Chapter4\\Chapter4\\Hero.h",
+              "RelativeToolTip": "Chapter4\\Hero.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-24T18:11:44.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Rocket.cpp",
+              "DocumentMoniker": "C:\\Users\\icasa\\source\\repos\\Chapter4\\Chapter4\\Rocket.cpp",
+              "RelativeDocumentMoniker": "Chapter4\\Rocket.cpp",
+              "ToolTip": "C:\\Users\\icasa\\source\\repos\\Chapter4\\Chapter4\\Rocket.cpp",
+              "RelativeToolTip": "Chapter4\\Rocket.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-25T02:21:58.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Enemy.cpp",
+              "DocumentMoniker": "C:\\Users\\icasa\\source\\repos\\Chapter4\\Chapter4\\Enemy.cpp",
+              "RelativeDocumentMoniker": "Chapter4\\Enemy.cpp",
+              "ToolTip": "C:\\Users\\icasa\\source\\repos\\Chapter4\\Chapter4\\Enemy.cpp",
+              "RelativeToolTip": "Chapter4\\Enemy.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-24T19:46:31.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Hero.cpp",
+              "DocumentMoniker": "C:\\Users\\icasa\\source\\repos\\Chapter04fromthebook\\4.SFMLProject\\SFMLProject\\Hero.cpp",
+              "RelativeDocumentMoniker": "..\\Chapter04fromthebook\\4.SFMLProject\\SFMLProject\\Hero.cpp",
+              "ToolTip": "C:\\Users\\icasa\\source\\repos\\Chapter04fromthebook\\4.SFMLProject\\SFMLProject\\Hero.cpp",
+              "RelativeToolTip": "..\\Chapter04fromthebook\\4.SFMLProject\\SFMLProject\\Hero.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-24T19:05:14.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Graphics.hpp",
+              "DocumentMoniker": "C:\\Users\\icasa\\source\\repos\\Chapter4\\Chapter4\\SFML-2.5.1\\include\\SFML\\Graphics.hpp",
+              "RelativeDocumentMoniker": "Chapter4\\SFML-2.5.1\\include\\SFML\\Graphics.hpp",
+              "ToolTip": "C:\\Users\\icasa\\source\\repos\\Chapter4\\Chapter4\\SFML-2.5.1\\include\\SFML\\Graphics.hpp",
+              "RelativeToolTip": "Chapter4\\SFML-2.5.1\\include\\SFML\\Graphics.hpp",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-24T18:22:31.8Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
