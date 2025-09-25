@@ -25,7 +25,7 @@ En este capítulo se trabaja con:
 ## ▶️ Cómo compilar y ejecutar
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/usuario/Chapter4.git
+   git clone https://github.com/IgnacioGiordanoMargni/Game-Development-By-Example-Ch4.git
 
 2. Abrir la solución Chapter4.sln en Visual Studio.
 
